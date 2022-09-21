@@ -6,9 +6,11 @@ Brad Traversy
 
 ## About
 
-<!-- App to find GitHub users. This is the second project from the React Front To Back 2022 course. -->
+CRUD (Create, Read, Update & Delete) application to manage real estate listings with Firebase as the BaaS (Backend As A Service). This is the third project from the React Front To Back 2022 Course
 
 ## Live Link
+
+https://github-finder-react-trevin.vercel.app/
 
 ## Languages, Tools, Techniques & Packages Used
 
@@ -16,6 +18,7 @@ Brad Traversy
 - React Router
 - CRA (Create React App)
 - Firebase
+- useEffect, useState
 
 ## Built By
 
