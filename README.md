@@ -10,7 +10,7 @@ CRUD (Create, Read, Update & Delete) application to manage real estate listings 
 
 ## Live Link
 
-https://github-finder-react-trevin.vercel.app/
+https://house-marketplace-firebase-react-trevin.vercel.app/
 
 ## Languages, Tools, Techniques & Packages Used
 
